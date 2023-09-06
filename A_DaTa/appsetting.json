@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnect": "Data Source=LAPTOP-L5UL9OG2\\SQLEXPRESS;Initial Catalog=Test_FUll_API;Integrated Security=True"
+  }
+}
